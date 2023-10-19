@@ -497,14 +497,16 @@ nav #nav-mobile {
     }
 }
 
-@media (max-width: 991px) {
-.desktop {
+.carousel-mobile {
     display: none !important;
-    }
 }
 
 @media (max-width: 991px) {
-.mobile{
+.carousel {
+    display: none !important;
+    }
+
+.carousel-mobile {
     display: block !important;
     }
 }

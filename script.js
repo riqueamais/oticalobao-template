@@ -12,6 +12,19 @@ $(document).ready(function () {
 });
 
 $(document).ready(function () {
+	$('.carousel-mobile').slick({
+		infinite: true,
+		arrows: false,
+		dots: false,
+    	speed: 1000,
+    	autoplay: true,
+    	autoplaySpeed: 1000,
+    	slidesToShow: 1,
+    	slidesToScroll: 1
+	});
+});
+
+$(document).ready(function () {
 	$('.carousel-marcas').slick({
 		infinite: true,
 		arrows: false,
