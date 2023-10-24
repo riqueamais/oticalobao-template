@@ -249,6 +249,10 @@ header nav ul li a:hover {
     font-weight: 600;
 }
 
+#oculos-infantis .bt:hover {
+    text-decoration: none;
+}
+
 #cuidados {
     position: relative;
     z-index: 98;
