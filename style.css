@@ -305,7 +305,7 @@ header nav ul li a:hover {
     font-weight: 600;
 }
 
-#cuidados .bt {
+#cuidados .bt:hover {
     text-decoration: none;
 }
 
