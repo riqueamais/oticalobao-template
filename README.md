@@ -20,7 +20,7 @@ Antes de começar, certifique-se de ter as seguintes ferramentas instaladas em s
 2. **Navegue até o diretório do projeto**:
 
    ```bash
-   cd otica-lobao-template
+   cd oticalobao-template
    ```
 
 3. **Abra o arquivo `index.html` no seu navegador ou em um servidor local**:
