@@ -2,30 +2,11 @@
 
 Este é um projeto de template para o site da Ótica Lobão, desenvolvido utilizando HTML, CSS, Bootstrap e Slick.js. O objetivo deste template é fornecer uma estrutura básica e responsiva para o site da Ótica Lobão, que pode ser facilmente personalizada e estendida de acordo com as necessidades do cliente.
 
-## Pré-requisitos
+## Link para acesso
 
-Antes de começar, certifique-se de ter as seguintes ferramentas instaladas em seu ambiente de desenvolvimento:
+## Link para acesso
 
-- **Navegador Web**: Recomendamos o uso de navegadores modernos como Chrome, Firefox ou Safari para visualizar e testar o site.
-- **Editor de Código**: Um editor de código como Visual Studio Code, Sublime Text ou Atom para editar os arquivos HTML, CSS e JavaScript.
-
-## Como Usar
-
-1. **Clone o repositório**:
-
-   ```bash
-   git clone https://github.com/riqueamais/oticalobao-template.git
-   ```
-
-2. **Navegue até o diretório do projeto**:
-
-   ```bash
-   cd oticalobao-template
-   ```
-
-3. **Abra o arquivo `index.html` no seu navegador ou em um servidor local**:
-
-   Você pode simplesmente abrir o arquivo `index.html` em seu navegador para visualizar o site ou configurar um servidor local para testes.
+[ÓticaLobão-Template](https://oticalobao-template.vercel.app)
 
 ## Estrutura de Arquivos
 
