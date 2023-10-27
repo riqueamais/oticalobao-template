@@ -4,8 +4,6 @@ Este é um projeto de template para o site da Ótica Lobão, desenvolvido utiliz
 
 ## Link para acesso
 
-## Link para acesso
-
 [ÓticaLobão-Template](https://oticalobao-template.vercel.app)
 
 ## Estrutura de Arquivos
